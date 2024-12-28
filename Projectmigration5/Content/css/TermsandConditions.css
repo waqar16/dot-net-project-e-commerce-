@@ -1,0 +1,38 @@
+/* body{
+    margin: 0px;
+    padding: 0px;
+
+} */
+/* .container
+{
+    width: 100%;
+    margin-top: 100px;
+    margin-right: 30px;
+    color: #525251;
+    margin-bottom: 20px;
+    font-size: 17px;
+    border: none;
+    outline: none;
+    margin: 30, auto;
+    padding: 10px;
+    margin-left: 2%;
+} */
+
+
+.container h1
+{
+    font-size: 2vw;
+    padding: 2vh;
+}
+.container p
+{
+    padding: 0vw,2vw ,2vw,2vw;
+    font-family: 'Roboto', sans-serif;
+    color:rgb(53, 52, 52);
+    font-size: 2vw;
+    width: 90%;
+}
+br
+{
+    margin: 1vw;
+}

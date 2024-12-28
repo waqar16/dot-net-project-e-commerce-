@@ -1,0 +1,296 @@
+C:\Users\Usama Khan\source\repos\Projectmigration5\Projectmigration5\bin\Projectmigration5.dll.config
+C:\Users\Usama Khan\source\repos\Projectmigration5\Projectmigration5\bin\Projectmigration5.dll
+C:\Users\Usama Khan\source\repos\Projectmigration5\Projectmigration5\bin\Projectmigration5.pdb
+C:\Users\Usama Khan\source\repos\Projectmigration5\Projectmigration5\bin\roslyn\csc.exe
+C:\Users\Usama Khan\source\repos\Projectmigration5\Projectmigration5\bin\roslyn\csc.exe.config
+C:\Users\Usama Khan\source\repos\Projectmigration5\Projectmigration5\bin\roslyn\csc.rsp
+C:\Users\Usama Khan\source\repos\Projectmigration5\Projectmigration5\bin\roslyn\csi.exe
+C:\Users\Usama Khan\source\repos\Projectmigration5\Projectmigration5\bin\roslyn\csi.exe.config
+C:\Users\Usama Khan\source\repos\Projectmigration5\Projectmigration5\bin\roslyn\csi.rsp
+C:\Users\Usama Khan\source\repos\Projectmigration5\Projectmigration5\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Usama Khan\source\repos\Projectmigration5\Projectmigration5\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Usama Khan\source\repos\Projectmigration5\Projectmigration5\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Usama Khan\source\repos\Projectmigration5\Projectmigration5\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Usama Khan\source\repos\Projectmigration5\Projectmigration5\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Usama Khan\source\repos\Projectmigration5\Projectmigration5\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Usama Khan\source\repos\Projectmigration5\Projectmigration5\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Usama Khan\source\repos\Projectmigration5\Projectmigration5\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Usama Khan\source\repos\Projectmigration5\Projectmigration5\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Usama Khan\source\repos\Projectmigration5\Projectmigration5\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Usama Khan\source\repos\Projectmigration5\Projectmigration5\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Usama Khan\source\repos\Projectmigration5\Projectmigration5\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Usama Khan\source\repos\Projectmigration5\Projectmigration5\bin\roslyn\System.AppContext.dll
+C:\Users\Usama Khan\source\repos\Projectmigration5\Projectmigration5\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Usama Khan\source\repos\Projectmigration5\Projectmigration5\bin\roslyn\System.Console.dll
+C:\Users\Usama Khan\source\repos\Projectmigration5\Projectmigration5\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Usama Khan\source\repos\Projectmigration5\Projectmigration5\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Usama Khan\source\repos\Projectmigration5\Projectmigration5\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Usama Khan\source\repos\Projectmigration5\Projectmigration5\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Usama Khan\source\repos\Projectmigration5\Projectmigration5\bin\roslyn\System.IO.Compression.dll
+C:\Users\Usama Khan\source\repos\Projectmigration5\Projectmigration5\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Usama Khan\source\repos\Projectmigration5\Projectmigration5\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Usama Khan\source\repos\Projectmigration5\Projectmigration5\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Usama Khan\source\repos\Projectmigration5\Projectmigration5\bin\roslyn\System.Net.Http.dll
+C:\Users\Usama Khan\source\repos\Projectmigration5\Projectmigration5\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Usama Khan\source\repos\Projectmigration5\Projectmigration5\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Usama Khan\source\repos\Projectmigration5\Projectmigration5\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Usama Khan\source\repos\Projectmigration5\Projectmigration5\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Usama Khan\source\repos\Projectmigration5\Projectmigration5\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Usama Khan\source\repos\Projectmigration5\Projectmigration5\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Usama Khan\source\repos\Projectmigration5\Projectmigration5\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Usama Khan\source\repos\Projectmigration5\Projectmigration5\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Usama Khan\source\repos\Projectmigration5\Projectmigration5\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Usama Khan\source\repos\Projectmigration5\Projectmigration5\bin\roslyn\System.ValueTuple.dll
+C:\Users\Usama Khan\source\repos\Projectmigration5\Projectmigration5\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Usama Khan\source\repos\Projectmigration5\Projectmigration5\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Usama Khan\source\repos\Projectmigration5\Projectmigration5\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Usama Khan\source\repos\Projectmigration5\Projectmigration5\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Usama Khan\source\repos\Projectmigration5\Projectmigration5\bin\roslyn\vbc.exe
+C:\Users\Usama Khan\source\repos\Projectmigration5\Projectmigration5\bin\roslyn\vbc.exe.config
+C:\Users\Usama Khan\source\repos\Projectmigration5\Projectmigration5\bin\roslyn\vbc.rsp
+C:\Users\Usama Khan\source\repos\Projectmigration5\Projectmigration5\bin\roslyn\VBCSCompiler.exe
+C:\Users\Usama Khan\source\repos\Projectmigration5\Projectmigration5\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Usama Khan\source\repos\Projectmigration5\Projectmigration5\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Usama Khan\source\repos\Projectmigration5\Projectmigration5\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Usama Khan\source\repos\Projectmigration5\Projectmigration5\bin\System.Web.Helpers.dll
+C:\Users\Usama Khan\source\repos\Projectmigration5\Projectmigration5\bin\System.Web.Mvc.dll
+C:\Users\Usama Khan\source\repos\Projectmigration5\Projectmigration5\bin\System.Web.Razor.dll
+C:\Users\Usama Khan\source\repos\Projectmigration5\Projectmigration5\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Usama Khan\source\repos\Projectmigration5\Projectmigration5\bin\System.Web.Webpages.dll
+C:\Users\Usama Khan\source\repos\Projectmigration5\Projectmigration5\bin\System.Web.Webpages.Razor.dll
+C:\Users\Usama Khan\source\repos\Projectmigration5\Projectmigration5\bin\System.Web.Razor.xml
+C:\Users\Usama Khan\source\repos\Projectmigration5\Projectmigration5\bin\System.Web.Webpages.xml
+C:\Users\Usama Khan\source\repos\Projectmigration5\Projectmigration5\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Usama Khan\source\repos\Projectmigration5\Projectmigration5\bin\System.Web.Webpages.Razor.xml
+C:\Users\Usama Khan\source\repos\Projectmigration5\Projectmigration5\bin\System.Web.Helpers.xml
+C:\Users\Usama Khan\source\repos\Projectmigration5\Projectmigration5\bin\System.Web.Mvc.xml
+C:\Users\Usama Khan\source\repos\Projectmigration5\Projectmigration5\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Usama Khan\source\repos\Projectmigration5\Projectmigration5\obj\Debug\Projectmigration5.csproj.AssemblyReference.cache
+C:\Users\Usama Khan\source\repos\Projectmigration5\Projectmigration5\obj\Debug\Projectmigration5.csproj.CoreCompileInputs.cache
+C:\Users\Usama Khan\source\repos\Projectmigration5\Projectmigration5\obj\Debug\Projectmigration5.csproj.CopyComplete
+C:\Users\Usama Khan\source\repos\Projectmigration5\Projectmigration5\obj\Debug\Projectmigration5.dll
+C:\Users\Usama Khan\source\repos\Projectmigration5\Projectmigration5\obj\Debug\Projectmigration5.pdb
+C:\Users\Taha Ahmed\Downloads\Projectmigration5\Projectmigration5\bin\Projectmigration5.dll.config
+C:\Users\Taha Ahmed\Downloads\Projectmigration5\Projectmigration5\bin\Projectmigration5.dll
+C:\Users\Taha Ahmed\Downloads\Projectmigration5\Projectmigration5\bin\Projectmigration5.pdb
+C:\Users\Taha Ahmed\Downloads\Projectmigration5\Projectmigration5\bin\roslyn\csc.exe
+C:\Users\Taha Ahmed\Downloads\Projectmigration5\Projectmigration5\bin\roslyn\csc.exe.config
+C:\Users\Taha Ahmed\Downloads\Projectmigration5\Projectmigration5\bin\roslyn\csc.rsp
+C:\Users\Taha Ahmed\Downloads\Projectmigration5\Projectmigration5\bin\roslyn\csi.exe
+C:\Users\Taha Ahmed\Downloads\Projectmigration5\Projectmigration5\bin\roslyn\csi.exe.config
+C:\Users\Taha Ahmed\Downloads\Projectmigration5\Projectmigration5\bin\roslyn\csi.rsp
+C:\Users\Taha Ahmed\Downloads\Projectmigration5\Projectmigration5\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Taha Ahmed\Downloads\Projectmigration5\Projectmigration5\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Taha Ahmed\Downloads\Projectmigration5\Projectmigration5\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Taha Ahmed\Downloads\Projectmigration5\Projectmigration5\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Taha Ahmed\Downloads\Projectmigration5\Projectmigration5\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Taha Ahmed\Downloads\Projectmigration5\Projectmigration5\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Taha Ahmed\Downloads\Projectmigration5\Projectmigration5\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Taha Ahmed\Downloads\Projectmigration5\Projectmigration5\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Taha Ahmed\Downloads\Projectmigration5\Projectmigration5\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Taha Ahmed\Downloads\Projectmigration5\Projectmigration5\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Taha Ahmed\Downloads\Projectmigration5\Projectmigration5\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Taha Ahmed\Downloads\Projectmigration5\Projectmigration5\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Taha Ahmed\Downloads\Projectmigration5\Projectmigration5\bin\roslyn\System.AppContext.dll
+C:\Users\Taha Ahmed\Downloads\Projectmigration5\Projectmigration5\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Taha Ahmed\Downloads\Projectmigration5\Projectmigration5\bin\roslyn\System.Console.dll
+C:\Users\Taha Ahmed\Downloads\Projectmigration5\Projectmigration5\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Taha Ahmed\Downloads\Projectmigration5\Projectmigration5\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Taha Ahmed\Downloads\Projectmigration5\Projectmigration5\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Taha Ahmed\Downloads\Projectmigration5\Projectmigration5\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Taha Ahmed\Downloads\Projectmigration5\Projectmigration5\bin\roslyn\System.IO.Compression.dll
+C:\Users\Taha Ahmed\Downloads\Projectmigration5\Projectmigration5\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Taha Ahmed\Downloads\Projectmigration5\Projectmigration5\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Taha Ahmed\Downloads\Projectmigration5\Projectmigration5\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Taha Ahmed\Downloads\Projectmigration5\Projectmigration5\bin\roslyn\System.Net.Http.dll
+C:\Users\Taha Ahmed\Downloads\Projectmigration5\Projectmigration5\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Taha Ahmed\Downloads\Projectmigration5\Projectmigration5\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Taha Ahmed\Downloads\Projectmigration5\Projectmigration5\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Taha Ahmed\Downloads\Projectmigration5\Projectmigration5\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Taha Ahmed\Downloads\Projectmigration5\Projectmigration5\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Taha Ahmed\Downloads\Projectmigration5\Projectmigration5\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Taha Ahmed\Downloads\Projectmigration5\Projectmigration5\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Taha Ahmed\Downloads\Projectmigration5\Projectmigration5\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Taha Ahmed\Downloads\Projectmigration5\Projectmigration5\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Taha Ahmed\Downloads\Projectmigration5\Projectmigration5\bin\roslyn\System.ValueTuple.dll
+C:\Users\Taha Ahmed\Downloads\Projectmigration5\Projectmigration5\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Taha Ahmed\Downloads\Projectmigration5\Projectmigration5\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Taha Ahmed\Downloads\Projectmigration5\Projectmigration5\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Taha Ahmed\Downloads\Projectmigration5\Projectmigration5\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Taha Ahmed\Downloads\Projectmigration5\Projectmigration5\bin\roslyn\vbc.exe
+C:\Users\Taha Ahmed\Downloads\Projectmigration5\Projectmigration5\bin\roslyn\vbc.exe.config
+C:\Users\Taha Ahmed\Downloads\Projectmigration5\Projectmigration5\bin\roslyn\vbc.rsp
+C:\Users\Taha Ahmed\Downloads\Projectmigration5\Projectmigration5\bin\roslyn\VBCSCompiler.exe
+C:\Users\Taha Ahmed\Downloads\Projectmigration5\Projectmigration5\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Taha Ahmed\Downloads\Projectmigration5\Projectmigration5\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Taha Ahmed\Downloads\Projectmigration5\Projectmigration5\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Taha Ahmed\Downloads\Projectmigration5\Projectmigration5\bin\System.Web.Helpers.dll
+C:\Users\Taha Ahmed\Downloads\Projectmigration5\Projectmigration5\bin\System.Web.Mvc.dll
+C:\Users\Taha Ahmed\Downloads\Projectmigration5\Projectmigration5\bin\System.Web.Razor.dll
+C:\Users\Taha Ahmed\Downloads\Projectmigration5\Projectmigration5\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Taha Ahmed\Downloads\Projectmigration5\Projectmigration5\bin\System.Web.Webpages.dll
+C:\Users\Taha Ahmed\Downloads\Projectmigration5\Projectmigration5\bin\System.Web.Webpages.Razor.dll
+C:\Users\Taha Ahmed\Downloads\Projectmigration5\Projectmigration5\bin\System.Web.Razor.xml
+C:\Users\Taha Ahmed\Downloads\Projectmigration5\Projectmigration5\bin\System.Web.Webpages.xml
+C:\Users\Taha Ahmed\Downloads\Projectmigration5\Projectmigration5\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Taha Ahmed\Downloads\Projectmigration5\Projectmigration5\bin\System.Web.Webpages.Razor.xml
+C:\Users\Taha Ahmed\Downloads\Projectmigration5\Projectmigration5\bin\System.Web.Helpers.xml
+C:\Users\Taha Ahmed\Downloads\Projectmigration5\Projectmigration5\bin\System.Web.Mvc.xml
+C:\Users\Taha Ahmed\Downloads\Projectmigration5\Projectmigration5\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Taha Ahmed\Downloads\Projectmigration5\Projectmigration5\obj\Debug\Projectmigration5.csproj.AssemblyReference.cache
+C:\Users\Taha Ahmed\Downloads\Projectmigration5\Projectmigration5\obj\Debug\Projectmigration5.csproj.CoreCompileInputs.cache
+C:\Users\Taha Ahmed\Downloads\Projectmigration5\Projectmigration5\obj\Debug\Projectmigration5.csproj.CopyComplete
+C:\Users\Taha Ahmed\Downloads\Projectmigration5\Projectmigration5\obj\Debug\Projectmigration5.dll
+C:\Users\Taha Ahmed\Downloads\Projectmigration5\Projectmigration5\obj\Debug\Projectmigration5.pdb
+C:\Users\waqar\Desktop\Projectmigration5\Projectmigration5\bin\Projectmigration5.dll.config
+C:\Users\waqar\Desktop\Projectmigration5\Projectmigration5\bin\Projectmigration5.dll
+C:\Users\waqar\Desktop\Projectmigration5\Projectmigration5\bin\Projectmigration5.pdb
+C:\Users\waqar\Desktop\Projectmigration5\Projectmigration5\bin\roslyn\csc.exe
+C:\Users\waqar\Desktop\Projectmigration5\Projectmigration5\bin\roslyn\csc.exe.config
+C:\Users\waqar\Desktop\Projectmigration5\Projectmigration5\bin\roslyn\csc.rsp
+C:\Users\waqar\Desktop\Projectmigration5\Projectmigration5\bin\roslyn\csi.exe
+C:\Users\waqar\Desktop\Projectmigration5\Projectmigration5\bin\roslyn\csi.exe.config
+C:\Users\waqar\Desktop\Projectmigration5\Projectmigration5\bin\roslyn\csi.rsp
+C:\Users\waqar\Desktop\Projectmigration5\Projectmigration5\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\waqar\Desktop\Projectmigration5\Projectmigration5\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\waqar\Desktop\Projectmigration5\Projectmigration5\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\waqar\Desktop\Projectmigration5\Projectmigration5\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\waqar\Desktop\Projectmigration5\Projectmigration5\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\waqar\Desktop\Projectmigration5\Projectmigration5\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\waqar\Desktop\Projectmigration5\Projectmigration5\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\waqar\Desktop\Projectmigration5\Projectmigration5\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\waqar\Desktop\Projectmigration5\Projectmigration5\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\waqar\Desktop\Projectmigration5\Projectmigration5\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\waqar\Desktop\Projectmigration5\Projectmigration5\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\waqar\Desktop\Projectmigration5\Projectmigration5\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\waqar\Desktop\Projectmigration5\Projectmigration5\bin\roslyn\System.AppContext.dll
+C:\Users\waqar\Desktop\Projectmigration5\Projectmigration5\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\waqar\Desktop\Projectmigration5\Projectmigration5\bin\roslyn\System.Console.dll
+C:\Users\waqar\Desktop\Projectmigration5\Projectmigration5\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\waqar\Desktop\Projectmigration5\Projectmigration5\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\waqar\Desktop\Projectmigration5\Projectmigration5\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\waqar\Desktop\Projectmigration5\Projectmigration5\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\waqar\Desktop\Projectmigration5\Projectmigration5\bin\roslyn\System.IO.Compression.dll
+C:\Users\waqar\Desktop\Projectmigration5\Projectmigration5\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\waqar\Desktop\Projectmigration5\Projectmigration5\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\waqar\Desktop\Projectmigration5\Projectmigration5\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\waqar\Desktop\Projectmigration5\Projectmigration5\bin\roslyn\System.Net.Http.dll
+C:\Users\waqar\Desktop\Projectmigration5\Projectmigration5\bin\roslyn\System.Net.Sockets.dll
+C:\Users\waqar\Desktop\Projectmigration5\Projectmigration5\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\waqar\Desktop\Projectmigration5\Projectmigration5\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\waqar\Desktop\Projectmigration5\Projectmigration5\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\waqar\Desktop\Projectmigration5\Projectmigration5\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\waqar\Desktop\Projectmigration5\Projectmigration5\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\waqar\Desktop\Projectmigration5\Projectmigration5\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\waqar\Desktop\Projectmigration5\Projectmigration5\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\waqar\Desktop\Projectmigration5\Projectmigration5\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\waqar\Desktop\Projectmigration5\Projectmigration5\bin\roslyn\System.ValueTuple.dll
+C:\Users\waqar\Desktop\Projectmigration5\Projectmigration5\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\waqar\Desktop\Projectmigration5\Projectmigration5\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\waqar\Desktop\Projectmigration5\Projectmigration5\bin\roslyn\System.Xml.XPath.dll
+C:\Users\waqar\Desktop\Projectmigration5\Projectmigration5\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\waqar\Desktop\Projectmigration5\Projectmigration5\bin\roslyn\vbc.exe
+C:\Users\waqar\Desktop\Projectmigration5\Projectmigration5\bin\roslyn\vbc.exe.config
+C:\Users\waqar\Desktop\Projectmigration5\Projectmigration5\bin\roslyn\vbc.rsp
+C:\Users\waqar\Desktop\Projectmigration5\Projectmigration5\bin\roslyn\VBCSCompiler.exe
+C:\Users\waqar\Desktop\Projectmigration5\Projectmigration5\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\waqar\Desktop\Projectmigration5\Projectmigration5\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\waqar\Desktop\Projectmigration5\Projectmigration5\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\waqar\Desktop\Projectmigration5\Projectmigration5\bin\System.Web.Helpers.dll
+C:\Users\waqar\Desktop\Projectmigration5\Projectmigration5\bin\System.Web.Mvc.dll
+C:\Users\waqar\Desktop\Projectmigration5\Projectmigration5\bin\System.Web.Razor.dll
+C:\Users\waqar\Desktop\Projectmigration5\Projectmigration5\bin\System.Web.Webpages.Deployment.dll
+C:\Users\waqar\Desktop\Projectmigration5\Projectmigration5\bin\System.Web.Webpages.dll
+C:\Users\waqar\Desktop\Projectmigration5\Projectmigration5\bin\System.Web.Webpages.Razor.dll
+C:\Users\waqar\Desktop\Projectmigration5\Projectmigration5\bin\System.Web.Razor.xml
+C:\Users\waqar\Desktop\Projectmigration5\Projectmigration5\bin\System.Web.Webpages.xml
+C:\Users\waqar\Desktop\Projectmigration5\Projectmigration5\bin\System.Web.Webpages.Deployment.xml
+C:\Users\waqar\Desktop\Projectmigration5\Projectmigration5\bin\System.Web.Webpages.Razor.xml
+C:\Users\waqar\Desktop\Projectmigration5\Projectmigration5\bin\System.Web.Helpers.xml
+C:\Users\waqar\Desktop\Projectmigration5\Projectmigration5\bin\System.Web.Mvc.xml
+C:\Users\waqar\Desktop\Projectmigration5\Projectmigration5\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\waqar\Desktop\Projectmigration5\Projectmigration5\obj\Debug\Projectmigration5.csproj.AssemblyReference.cache
+C:\Users\waqar\Desktop\Projectmigration5\Projectmigration5\obj\Debug\Projectmigration5.csproj.CoreCompileInputs.cache
+C:\Users\waqar\Desktop\Projectmigration5\Projectmigration5\obj\Debug\Projectmigration5.csproj.CopyComplete
+C:\Users\waqar\Desktop\Projectmigration5\Projectmigration5\obj\Debug\Projectmigration5.dll
+C:\Users\waqar\Desktop\Projectmigration5\Projectmigration5\obj\Debug\Projectmigration5.pdb
+C:\Users\waqar\Desktop\Projectmigration5\Projectmigration5\bin\EntityFramework.dll
+C:\Users\waqar\Desktop\Projectmigration5\Projectmigration5\bin\EntityFramework.SqlServer.dll
+C:\Users\waqar\Desktop\Projectmigration5\Projectmigration5\bin\EntityFramework.xml
+C:\Users\waqar\Desktop\Projectmigration5\Projectmigration5\bin\EntityFramework.SqlServer.xml
+G:\Projectmigration5\Projectmigration5\bin\Projectmigration5.dll.config
+G:\Projectmigration5\Projectmigration5\bin\Projectmigration5.dll
+G:\Projectmigration5\Projectmigration5\bin\Projectmigration5.pdb
+G:\Projectmigration5\Projectmigration5\bin\roslyn\csc.exe
+G:\Projectmigration5\Projectmigration5\bin\roslyn\csc.exe.config
+G:\Projectmigration5\Projectmigration5\bin\roslyn\csc.rsp
+G:\Projectmigration5\Projectmigration5\bin\roslyn\csi.exe
+G:\Projectmigration5\Projectmigration5\bin\roslyn\csi.exe.config
+G:\Projectmigration5\Projectmigration5\bin\roslyn\csi.rsp
+G:\Projectmigration5\Projectmigration5\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\Projectmigration5\Projectmigration5\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\Projectmigration5\Projectmigration5\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:\Projectmigration5\Projectmigration5\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\Projectmigration5\Projectmigration5\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+G:\Projectmigration5\Projectmigration5\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\Projectmigration5\Projectmigration5\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\Projectmigration5\Projectmigration5\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+G:\Projectmigration5\Projectmigration5\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+G:\Projectmigration5\Projectmigration5\bin\roslyn\Microsoft.Managed.Core.targets
+G:\Projectmigration5\Projectmigration5\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\Projectmigration5\Projectmigration5\bin\roslyn\Microsoft.Win32.Primitives.dll
+G:\Projectmigration5\Projectmigration5\bin\roslyn\System.AppContext.dll
+G:\Projectmigration5\Projectmigration5\bin\roslyn\System.Collections.Immutable.dll
+G:\Projectmigration5\Projectmigration5\bin\roslyn\System.Console.dll
+G:\Projectmigration5\Projectmigration5\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+G:\Projectmigration5\Projectmigration5\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+G:\Projectmigration5\Projectmigration5\bin\roslyn\System.Diagnostics.StackTrace.dll
+G:\Projectmigration5\Projectmigration5\bin\roslyn\System.Globalization.Calendars.dll
+G:\Projectmigration5\Projectmigration5\bin\roslyn\System.IO.Compression.dll
+G:\Projectmigration5\Projectmigration5\bin\roslyn\System.IO.Compression.ZipFile.dll
+G:\Projectmigration5\Projectmigration5\bin\roslyn\System.IO.FileSystem.dll
+G:\Projectmigration5\Projectmigration5\bin\roslyn\System.IO.FileSystem.Primitives.dll
+G:\Projectmigration5\Projectmigration5\bin\roslyn\System.Net.Http.dll
+G:\Projectmigration5\Projectmigration5\bin\roslyn\System.Net.Sockets.dll
+G:\Projectmigration5\Projectmigration5\bin\roslyn\System.Reflection.Metadata.dll
+G:\Projectmigration5\Projectmigration5\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+G:\Projectmigration5\Projectmigration5\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+G:\Projectmigration5\Projectmigration5\bin\roslyn\System.Security.Cryptography.Encoding.dll
+G:\Projectmigration5\Projectmigration5\bin\roslyn\System.Security.Cryptography.Primitives.dll
+G:\Projectmigration5\Projectmigration5\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+G:\Projectmigration5\Projectmigration5\bin\roslyn\System.Text.Encoding.CodePages.dll
+G:\Projectmigration5\Projectmigration5\bin\roslyn\System.Threading.Tasks.Extensions.dll
+G:\Projectmigration5\Projectmigration5\bin\roslyn\System.ValueTuple.dll
+G:\Projectmigration5\Projectmigration5\bin\roslyn\System.Xml.ReaderWriter.dll
+G:\Projectmigration5\Projectmigration5\bin\roslyn\System.Xml.XmlDocument.dll
+G:\Projectmigration5\Projectmigration5\bin\roslyn\System.Xml.XPath.dll
+G:\Projectmigration5\Projectmigration5\bin\roslyn\System.Xml.XPath.XDocument.dll
+G:\Projectmigration5\Projectmigration5\bin\roslyn\vbc.exe
+G:\Projectmigration5\Projectmigration5\bin\roslyn\vbc.exe.config
+G:\Projectmigration5\Projectmigration5\bin\roslyn\vbc.rsp
+G:\Projectmigration5\Projectmigration5\bin\roslyn\VBCSCompiler.exe
+G:\Projectmigration5\Projectmigration5\bin\roslyn\VBCSCompiler.exe.config
+G:\Projectmigration5\Projectmigration5\bin\EntityFramework.dll
+G:\Projectmigration5\Projectmigration5\bin\EntityFramework.SqlServer.dll
+G:\Projectmigration5\Projectmigration5\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\Projectmigration5\Projectmigration5\bin\Microsoft.Web.Infrastructure.dll
+G:\Projectmigration5\Projectmigration5\bin\System.Web.Helpers.dll
+G:\Projectmigration5\Projectmigration5\bin\System.Web.Mvc.dll
+G:\Projectmigration5\Projectmigration5\bin\System.Web.Razor.dll
+G:\Projectmigration5\Projectmigration5\bin\System.Web.Webpages.Deployment.dll
+G:\Projectmigration5\Projectmigration5\bin\System.Web.Webpages.dll
+G:\Projectmigration5\Projectmigration5\bin\System.Web.Webpages.Razor.dll
+G:\Projectmigration5\Projectmigration5\bin\EntityFramework.xml
+G:\Projectmigration5\Projectmigration5\bin\EntityFramework.SqlServer.xml
+G:\Projectmigration5\Projectmigration5\bin\System.Web.Razor.xml
+G:\Projectmigration5\Projectmigration5\bin\System.Web.Webpages.xml
+G:\Projectmigration5\Projectmigration5\bin\System.Web.Webpages.Deployment.xml
+G:\Projectmigration5\Projectmigration5\bin\System.Web.Webpages.Razor.xml
+G:\Projectmigration5\Projectmigration5\bin\System.Web.Helpers.xml
+G:\Projectmigration5\Projectmigration5\bin\System.Web.Mvc.xml
+G:\Projectmigration5\Projectmigration5\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\Projectmigration5\Projectmigration5\obj\Debug\Projectmigration5.csproj.AssemblyReference.cache
+G:\Projectmigration5\Projectmigration5\obj\Debug\Projectmigration5.csproj.CoreCompileInputs.cache
+G:\Projectmigration5\Projectmigration5\obj\Debug\Projectmigration5.csproj.CopyComplete
+G:\Projectmigration5\Projectmigration5\obj\Debug\Projectmigration5.dll
+G:\Projectmigration5\Projectmigration5\obj\Debug\Projectmigration5.pdb

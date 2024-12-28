@@ -1,0 +1,42 @@
+﻿@model IEnumerable<Projectmigration5.Models.Product>
+
+<section class="feature-products">
+    <div class="container">
+      
+        <div class="row">
+
+            <div class="col-md-12 text-center feature-title">
+                <h2>FEATURED PRODUCTS</h2>
+                <a class="feature-active" href="#">BEST SELLER</a>
+            </div>
+            @foreach (var item in Model)
+            {
+                        <div class="col-md-3 col-sm-6">
+                            <div class="product-grid">
+                                <div class="product-image">
+                                    <a href="#" class="image" style="background-color:#F3F3F3;">
+                                        <img src="@item.ImageFile" />
+
+                                    </a>
+                                    <a class="add-to-cart" href=""> + </a>
+                                </div>
+                                <div class="product-content">
+                                    <h3 class="title"><a href="#">@item.ProductName</a></h3>
+                                    <br>
+
+                                    <div class="price"> @item.Price /=</div>
+
+                                </div>
+
+                                <div class="action-buttons">
+                                    <a class="btn-outline">ADD TO CART</a>
+                                </div>
+                            </div>
+                            
+                        </div>   
+             }
+            
+        </div>
+        
+        </div>
+</section>
